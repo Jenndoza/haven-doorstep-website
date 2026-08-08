@@ -24,3 +24,8 @@ A lightweight static website optimized for speed and GitHub Pages.
 
 ## Contact form
 The first test submission normally triggers a one-time activation email from FormSubmit. Approve it, then test again.
+
+
+## V2 hero image
+
+This version includes `hero-haven.webp`, an optimized WebP hero image. Keep it in the repository root with the HTML/CSS/JS files.
